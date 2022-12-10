@@ -1,6 +1,6 @@
 # Hi there 👋, I am Venky
 
-- I am a Lead Full Stack JavaScript Developer
+- I am a Lead Full Stack Developer
 - I have 11+ years of experience designing, developing, and managing complex web applications and internal frameworks.
 - Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks.
 - Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.

@@ -5,7 +5,6 @@
 - Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks.
 - Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
 - Experienced in decision-making areas beyond programming such as product development, hiring, etc.
-- I learn and build everything that excites me.
 
 **🔭 I’m currently working on** React, Redux and node microservices
 

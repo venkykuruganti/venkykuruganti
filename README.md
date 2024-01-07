@@ -18,7 +18,7 @@
 
 
 
-# Skills
+# 💼 Skills
 
 **Basic Web Technologies:** HTML5, CSS3, JavaScript (ES5-ES8), TypeScript
 
@@ -28,31 +28,6 @@
 
 **Testing:** Jest & Enzyme, React Testing Library, Jasmine, WebDriverIO, Cypress, TestCafe
 
-**Transpiler:** Babel
-
-**Storage:** MySQL, Oracle and MongoDB
-
-**Build Tools:** Gradle, Maven, Webpack, Grunt and Gulp
-
-**Package Manager:** NPM, Yarn and Bower
-
-**DevOps:** Docker, Atlassian Bamboo, Jenkins
-
-**Version Control:** GIT, SVN
-
-**Configuration Management:** Ansible
-
-**Monitoring & Alerting:** Dynatrace, Grafanna, New Relic and Splunk
-
-**Static code analysis:** SonarQube
-
-**Networking and Security:** HP Fortify, HTTP(S), CheckMarx, Black Duck
-
-**Web & Application Servers:** Nginx, IIS, Apache Tomcat, JBOSS and WebSphere
-
-**Miscellaneous Technologies:** JFROG Artifactory, JIRA, Confluence, IntelliJ IDEA and Visual Studio Code
-
-**Cloud platforms:** Heroku, AWS
 
 # Certifications
 

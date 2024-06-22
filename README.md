@@ -12,6 +12,8 @@
 
 **📫 How to reach me:** kurugantivreddy@gmail.com
 
+**😄 Pronouns:** he/him/his
+
 # Contact me
 
 [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/venkykuruganti) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/venkykuruganti) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/venkateswarlukuruganti/) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/VenkyKuruganti) [<img src='https://img.icons8.com/color/2x/medium-logo.png' alt='Medium' height='40'>](https://venkykuruganti.medium.com/) 
